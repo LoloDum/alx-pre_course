@@ -1,2 +1,4 @@
 git fetch origin master
 git pull
+git fetch origin master
+git pull
